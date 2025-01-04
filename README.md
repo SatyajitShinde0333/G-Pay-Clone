@@ -2,20 +2,7 @@
 
 # Gpay 
 
-[![License](https://img.shields.io/github/license/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/stargazers)
-[![Forks](https://img.shields.io/github/forks/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/pulls)
-[![GitHub contributors](https://img.shields.io/github/contributors/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/graphs/contributors)
-[![GitHub watchers](https://img.shields.io/github/watchers/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/watchers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-fiaz/GpayApp-Flutter)](https://github.com/muhammad-fiaz/GpayApp-Flutter/commits/main)
-<a href="https://discord.gg/uRkZ5cHf" target="_blank">
-  <img
-    src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf?style=shield"
-    alt="discord invite"
-  />
-</a>
+
 </div>
 
 
